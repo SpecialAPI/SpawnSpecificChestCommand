@@ -1,2 +1,2 @@
-# SpawnSpecificChestCommand
- A mod that adds a command to spawn chests containing specific items.
+# Spawn Specific Chest Command
+Adds the `spawnspecificchest` command to the game that allows you to spawn chests containing specific items. The format for the command is `spawnspecificchest item_name`. Examples: `spawnspecificchest klobbe`, `spawnspecificchest junk`, `spawnspecificchest au_gun`.
